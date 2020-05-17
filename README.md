@@ -5,9 +5,9 @@
 
 1. Download and install MAMP - https://www.mamp.info/en/downloads/
 2. Run Apache & MySQL servers
-3. Clone fun-dacha project into working directory (for ecample: /Projects/fund-dacha)
+3. Clone fun-dacha project into working directory (for eхample: /Projects/fund-dacha)
 git@github.com:hohunskyi/fun-dacha.git
-4. Clone fun-dacha-data project into working directory (for ecample: /Projects/fund-dacha-data)
+4. Clone fun-dacha-data project into working directory (for eхample: /Projects/fund-dacha-data)
 git@github.com:hohunskyi/fun-dacha-data.git
 5. Run sh import_db.sh from fun-dacha-data root folder
 6. Open http://localhost:8888/fun-dacha (port may be different and depends on your MAMP settings)
