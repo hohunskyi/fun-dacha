@@ -14,7 +14,7 @@ git@github.com:hohunskyi/fun-dacha-data.git
 
 
 
-## Udate Data Flow
+## How to Update Data Model
 1. Make nessasary changes to WP database
 2. Update README.md with comment about changes yuor made
 3. Open root folder from terminal
