@@ -1,4 +1,0 @@
-[submodule "fun-dacha-data"]
-	path = fun-dacha-data
-	url = git@github.com:hohunskyi/fun-dacha-data.git
-	branch = master
