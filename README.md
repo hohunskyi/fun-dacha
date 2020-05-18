@@ -24,3 +24,4 @@ git push origin master
 
 ## Change log
 - Initial data setup
+- added test products
