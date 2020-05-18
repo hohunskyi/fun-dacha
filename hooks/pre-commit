@@ -1,0 +1,4 @@
+#!/bin/sh
+#
+mysqldump -u root --password="root"  fun-dacha > db/fun-dacha.sql
+git add .
